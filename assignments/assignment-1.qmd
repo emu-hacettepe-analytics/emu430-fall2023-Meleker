@@ -12,4 +12,36 @@ My first assignment has two parts.
 
 ## (a)
 
+#https://www.rstudio.com/conference/2022/talks/achieving-seamless-workflow-r-python/
+
+Brief Summary
+
+Statistics Canada is the official statistical agency of Canada, and it is a large institution with over 6,000 employees. It has a legal obligation to ensure the privacy of personal information, which is why it has implemented an internal system called G-Confid to prevent the disclosure of confidential information, and this system is exclusively implemented using the SAS programming language. As a result, many analysts and data scientists at Statistics Canada are required to use the SAS programming language as part of their workflow. Therefore, finding ways to seamlessly work between open-source programming languages and SAS is of utmost importance.
+Melissa offers a solution to create a harmonious workflow for R, Python, and SAS within RStudio. This approach provides a recipe that will help both data scientists and analysts effectively perform their tasks.
+
 ## (b)
+
+#When defining a variable
+
+```{r}
+X<- 5
+```
+```{Python}
+X = 5
+```
+#When creating a list
+
+```{r}
+numbers <- c(1, 2, 3)
+```
+```{Python}
+numbers = [1, 2, 3]
+```
+#When performing arithmetic operations
+
+```{r}
+result <- 2 + 3 * 5 
+```
+```{Python}
+result = 2 + 3 * 5
+```
