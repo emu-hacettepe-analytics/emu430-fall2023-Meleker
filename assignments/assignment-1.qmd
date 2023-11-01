@@ -37,8 +37,17 @@ result <- 2 + 3 * 5
 result = 2 + 3 * 5
 ```
 
+## (c)
 
-
-
-
+```{r}
+install.packages("dslabs")
+library(dslabs)
+data("na_example")
+print(na_example)
+total_number_of_NAs <- sum(is.na(na_example))
+new_na_example <- na_example
+new_na_example[is.na(new_na_example)] <- 0
+print(new_na_example)
+new_na_count <- sum(is.na(new_na_example))
+```
 
