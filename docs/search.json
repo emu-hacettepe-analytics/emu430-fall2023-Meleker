@@ -44,9 +44,9 @@
   {
     "objectID": "assignments/assignment-1.html",
     "href": "assignments/assignment-1.html",
-    "title": "Assignment 1",
+    "title": "R and Python respectively",
     "section": "",
-    "text": "1 + 1\n\n[1] 2\n\n\nMy first assignment has two parts.\n\n\n#https://www.rstudio.com/conference/2022/talks/achieving-seamless-workflow-r-python/\nBrief Summary\nStatistics Canada is the official statistical agency of Canada, and it is a large institution with over 6,000 employees. It has a legal obligation to ensure the privacy of personal information, which is why it has implemented an internal system called G-Confid to prevent the disclosure of confidential information, and this system is exclusively implemented using the SAS programming language. As a result, many analysts and data scientists at Statistics Canada are required to use the SAS programming language as part of their workflow. Therefore, finding ways to seamlessly work between open-source programming languages and SAS is of utmost importance. Melissa offers a solution to create a harmonious workflow for R, Python, and SAS within RStudio. This approach provides a recipe that will help both data scientists and analysts effectively perform their tasks.\n\n\n\n#When defining a variable\n\nX&lt;- 5\n\n\nX = 5\n\n#When creating a list\n\nnumbers &lt;- c(1, 2, 3)\n\n\nnumbers = [1, 2, 3]\n\n#When performing arithmetic operations\n\nresult &lt;- 2 + 3 * 5 \n\n\nresult = 2 + 3 * 5"
+    "text": "#https://www.rstudio.com/conference/2022/talks/achieving-seamless-workflow-r-python/\nBrief Summary\nStatistics Canada is the official statistical agency of Canada, and it is a large institution with over 6,000 employees. It has a legal obligation to ensure the privacy of personal information, which is why it has implemented an internal system called G-Confid to prevent the disclosure of confidential information, and this system is exclusively implemented using the SAS programming language. As a result, many analysts and data scientists at Statistics Canada are required to use the SAS programming language as part of their workflow. Therefore, finding ways to seamlessly work between open-source programming languages and SAS is of utmost importance. Melissa offers a solution to create a harmonious workflow for R, Python, and SAS within RStudio. This approach provides a recipe that will help both data scientists and analysts effectively perform their tasks."
   },
   {
     "objectID": "assignments.html",
@@ -65,15 +65,15 @@
   {
     "objectID": "assignments/assignment-1.html#a",
     "href": "assignments/assignment-1.html#a",
-    "title": "Assignment 1",
+    "title": "R and Python respectively",
     "section": "",
     "text": "#https://www.rstudio.com/conference/2022/talks/achieving-seamless-workflow-r-python/\nBrief Summary\nStatistics Canada is the official statistical agency of Canada, and it is a large institution with over 6,000 employees. It has a legal obligation to ensure the privacy of personal information, which is why it has implemented an internal system called G-Confid to prevent the disclosure of confidential information, and this system is exclusively implemented using the SAS programming language. As a result, many analysts and data scientists at Statistics Canada are required to use the SAS programming language as part of their workflow. Therefore, finding ways to seamlessly work between open-source programming languages and SAS is of utmost importance. Melissa offers a solution to create a harmonious workflow for R, Python, and SAS within RStudio. This approach provides a recipe that will help both data scientists and analysts effectively perform their tasks."
   },
   {
     "objectID": "assignments/assignment-1.html#b",
     "href": "assignments/assignment-1.html#b",
-    "title": "Assignment 1",
-    "section": "",
-    "text": "#When defining a variable\n\nX&lt;- 5\n\n\nX = 5\n\n#When creating a list\n\nnumbers &lt;- c(1, 2, 3)\n\n\nnumbers = [1, 2, 3]\n\n#When performing arithmetic operations\n\nresult &lt;- 2 + 3 * 5 \n\n\nresult = 2 + 3 * 5"
+    "title": "R and Python respectively",
+    "section": "(b)",
+    "text": "(b)"
   }
 ]
