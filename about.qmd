@@ -26,9 +26,11 @@ sidebar: false
 
 # Projects
 Defacto Teknoloji - "Defacto Kombin Önerisi"
+
 While creating our improvement ideas for Defacto's Home Page together with Defacto Technology Company, we used Business Impact Analysis, Bencmark Analysis, Process Flow Diagram, Database Sampling, Mockup Designs, Adverse Scenarios, Risk Analysis and UML diagrams. We presented the presentation we made with my teammates to the customer.
 
 TUSAŞ Lift Up - Graduation Project Student
+
 Uncertainty axes are the axes chosen to create futuristic scenarios in line with developments that are determined to have a high impact on the future. In line with these axes, 4 different futuristic scenarios are created. In line with these scenarios, policies are planned for each scenario. The expected gain in this project is to ensure that the policies to be implemented are decided with a methodological approach by assigning priority values to the uncertainty axes where futuristic scenarios are planned.
 
 # Competencies
