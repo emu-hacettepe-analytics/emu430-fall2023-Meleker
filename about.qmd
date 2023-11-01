@@ -5,26 +5,35 @@ sidebar: false
 
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
+-   B.S., Industrial Engineering, Hacettepe University, Turkey, 2023 - ongoing.
 
 # Work Experience
 
 ## Employements
 
-1.  Firm xxx, position xx, year xxx
-
-2.  Firm yyy, position yyy, year yyy
+1.  Firm TUBITAK BILGEM YTE, Candidate Researcher, year 2023
+-ongoing.
 
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
+1.  Firm Ford Otosan, position Human Resources, year 2022
 
-2.  Firm bbb, position yyy, year yyy
+2.  Firm Wicode, position Digital Marketing, year 2022
+
+3.  Firm TUBITAK BILGEM YTE, position Business Analyst, year 2023
+
+4.  Firm Papilon Savunma, position Sales, year 2023
 
 # Projects
+Defacto Teknoloji - "Defacto Kombin Önerisi"
+While creating our improvement ideas for Defacto's Home Page together with Defacto Technology Company, we used Business Impact Analysis, Bencmark Analysis, Process Flow Diagram, Database Sampling, Mockup Designs, Adverse Scenarios, Risk Analysis and UML diagrams. We presented the presentation we made with my teammates to the customer.
+
+TUSAŞ Lift Up - Graduation Project Student
+Uncertainty axes are the axes chosen to create futuristic scenarios in line with developments that are determined to have a high impact on the future. In line with these axes, 4 different futuristic scenarios are created. In line with these scenarios, policies are planned for each scenario. The expected gain in this project is to ensure that the policies to be implemented are decided with a methodological approach by assigning priority values to the uncertainty axes where futuristic scenarios are planned.
 
 # Competencies
 
-R, Quarto, Git, Python
+R, Quarto, Git, Python, MATLAB, MS Office.
 
 # Hobbies
+Playing basketball, trying a new recipe, listening to music, reading books, watching movies and series
