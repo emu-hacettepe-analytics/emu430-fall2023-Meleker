@@ -10,7 +10,7 @@ Melissa offers a solution to create a harmonious workflow for R, Python, and SAS
 
 ## (b)
 
-# R and Python respectively
+# Differences between R and Python (R and Python respectively)
 
 #When defining a variable
 
