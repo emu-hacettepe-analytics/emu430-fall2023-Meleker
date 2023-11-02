@@ -1,3 +1,6 @@
+---
+title: "Assignment 1"
+---
 
 ## (a)
 
@@ -5,8 +8,7 @@
 
 Brief Summary
 
-Statistics Canada is the official statistical agency of Canada, and it is a large institution with over 6,000 employees. It has a legal obligation to ensure the privacy of personal information, which is why it has implemented an internal system called G-Confid to prevent the disclosure of confidential information, and this system is exclusively implemented using the SAS programming language. As a result, many analysts and data scientists at Statistics Canada are required to use the SAS programming language as part of their workflow. Therefore, finding ways to seamlessly work between open-source programming languages and SAS is of utmost importance.
-Melissa offers a solution to create a harmonious workflow for R, Python, and SAS within RStudio. This approach provides a recipe that will help both data scientists and analysts effectively perform their tasks.
+Statistics Canada is the official statistical agency of Canada, and it is a large institution with over 6,000 employees. It has a legal obligation to ensure the privacy of personal information, which is why it has implemented an internal system called G-Confid to prevent the disclosure of confidential information, and this system is exclusively implemented using the SAS programming language. As a result, many analysts and data scientists at Statistics Canada are required to use the SAS programming language as part of their workflow. Therefore, finding ways to seamlessly work between open-source programming languages and SAS is of utmost importance. Melissa offers a solution to create a harmonious workflow for R, Python, and SAS within RStudio. This approach provides a recipe that will help both data scientists and analysts effectively perform their tasks.
 
 ## (b)
 
@@ -17,37 +19,45 @@ Melissa offers a solution to create a harmonious workflow for R, Python, and SAS
 ```{r}
 X <- 5
 ```
+
 ```{Python}
 X = 5
 ```
+
 #When creating a list
 
 ```{r}
 numbers <- c(1, 2, 3)
 ```
+
 ```{Python}
 numbers = [1, 2, 3]
 ```
+
 #When performing arithmetic operations
 
 ```{r}
 result <- 2 + 3 * 5 
 ```
+
 ```{Python}
 result = 2 + 3 * 5
 ```
 
+
 ## (c)
 
 ```{r}
-install.packages("dslabs")
-library(dslabs)
+library("dslabs")
 data("na_example")
 print(na_example)
-total_number_of_NAs <- sum(is.na(na_example))
+sum(is.na(na_example))
 new_na_example <- na_example
 new_na_example[is.na(new_na_example)] <- 0
 print(new_na_example)
-new_na_count <- sum(is.na(new_na_example))
+sum(is.na(new_na_example))
 ```
+
+
+
 
