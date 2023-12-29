@@ -2,8 +2,8 @@
 title: "Assignment 2"
 ---
 
-
 ```{r}
+#| warning: false
 library(tidyverse) 
 library(rvest) 
 library(stringr) 
